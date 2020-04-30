@@ -1,5 +1,4 @@
-<!doctype html>
-<html data-lt-installed="true">
+
 <head>
 	<title>HTML Editor - Full Version</title>
 </head>
@@ -322,6 +321,8 @@ Fuente: Propia</span></p>
 
 <hr />
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:20px;"><strong>8. Conclusiones</strong></span></span></p>
+
+https://www.loom.com/share/34fc442d524a48f3b82084d5af9b8347
 
 <p>&nbsp;</p>
 
