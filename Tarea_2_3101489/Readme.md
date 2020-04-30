@@ -1,6 +1,6 @@
 
 <head>
-	<title>HTML Editor - Full Version</title>
+	
 </head>
 <body data-gramm="false"><lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1333px !important; height: 876.156px !important; transform: none !important; transform-origin: 666.5px 438.078px !important; margin-top: 24px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="629" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="648"></canvas></lt-div></lt-highlighter>
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><big>Tarea 2 - Publicaci&oacute;n de mapas bajo est&aacute;ndares OGC utilizando base de datos espacial y servidor de mapas</big></span></span></p>
@@ -342,5 +342,40 @@ Fuente: Propia</span></p>
 
 <p align="center"><span style="font-family:tahoma,geneva,sans-serif;">Figura 19. Mapa base en QGIS junto con todas las otras capas trabajadas.<br />
 Fuente: Propia</span></p>
+</body>
+</html>
+
+URL: URL: https://api.mapbox.com/styles/v1/mfmojicab/ck9li6kcs10nz1ipiuqbajrl3.html?fresh=true&title=view&access_token=pk.eyJ1IjoibWZtb2ppY2FiIiwiYSI6ImNrOWxoeGo0ZDBzeDQzZHBwMjJtZHR3d3kifQ.fpOpnYumRSKnrPIYWXg4eA
+<!doctype html>
+<html data-lt-installed="true">
+<head>
+
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 682px !important; height: 1170px !important; transform: none !important; transform-origin: 341px 585px !important; margin-top: 32px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="1035" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="452"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<h1>&nbsp;</h1>
+
+<p style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px; text-align: center;">&nbsp;</p>
+
+<p style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px; text-align: center;"><img alt="" src="https://i.ibb.co/7VV4KWP/Figura-20.png" style="width: 500px; height: 281px;" /></p>
+
+<p align="center" style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px;"><span style="font-family: tahoma, geneva, sans-serif;">Figura 19. Mapa base en QGIS junto con todas las otras capas trabajadas.<br />
+Fuente: Propia</span></p>
+
+<p style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px;">&nbsp;</p>
+
+<p style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px;"><span style="font-size: 20px;"><span style="font-family: tahoma, geneva, sans-serif;"><strong>10. Opcional</strong></span></span></p>
+
+<p style="text-align: justify;"><span style="font-family:tahoma,geneva,sans-serif;">Para la publicaci&oacute;n en la web de un mapa generado en QGIS&nbsp;se hace uso de la herramienta QGIS2web, una vez instalado el plugin ser&aacute; posible acceder a la herramienta desde la pesta&ntilde;a web. All&iacute; seleccionamos el nuevo plugin y la opci&oacute;n de crear nuevo mapa. Posteriormente se abrir&aacute; una ventana en donde se configura los par&aacute;metros para la publicaci&oacute;n del mapa.</span></p>
+
+<p style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px; text-align: center;"><img alt="" src="https://i.ibb.co/BqtgNxS/ultima.png" style="width: 600px; height: 337px;" /></p>
+
+<p align="center"><span style="font-family:tahoma,geneva,sans-serif;">Figura 20. QGIS2Web, exportaci&oacute;n de mapa.</span></p>
+
+<p align="center"><span style="font-family:tahoma,geneva,sans-serif;">Fuente: Propia</span></p>
+
+<p><span style="font-family:tahoma,geneva,sans-serif;">Link:&nbsp;<a href="https://mfmojicab.github.io/mafe_clase_cartoweb/Tarea_2_3101489/mapa_qgis/index.html">https://mfmojicab.github.io/mafe_clase_cartoweb/Tarea_2_3101489/mapa_qgis/index.html</a></span></p>
+
+<p style="background-repeat: no-repeat; border: 1px dotted gray; padding-top: 8px; background-image: url(&quot;https://www.qhmit.com/html/online-html-editor/ckeditor/ckeditor_4.4.1_full/plugins/showblocks/images/block_p.png&quot;); background-position: left top; padding-left: 8px;">&nbsp;</p>
 </body>
 </html>
