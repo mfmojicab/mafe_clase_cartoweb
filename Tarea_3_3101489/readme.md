@@ -166,7 +166,68 @@ Cuando se han cargado las capas se muestra la opción Visualizar Capa, al hacer 
 </body>
 </html>
 
+Una vez se han asignado los metadatos de la capa se selecciona la opción de Crear un Mapa, una vez damos clic allí se despliega el visor de Geonode que permite modificar la apariencia del mapa. Allí se carga un nuevo estilo para la capa desde un archivo SLD generado en QGIS y se seleccionan los widgets que mejor reflejan la información del mapa. 
 
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 149px !important; transform: none !important; transform-origin: 675px 74.5px !important; zoom: 1 !important; margin-top: 21.4375px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<h1 style="text-align: center;"><img alt="" src="https://i.ibb.co/gWZpygb/Captura-9.png" style="width: 300px; height: 141px;" /></h1>
+</body>
+</html>
+
+Se selecciona la opción Configuración de la capa.
+
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 218px !important; transform: none !important; transform-origin: 675px 109px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/Nnf1VFC/Captura-10.png" style="width: 400px; height: 214px;" /></p>
+</body>
+</html>
+
+Allí, en el símbolo del gotero se le puede asignar el estilo deseado a la capa. En este caso creamos un nuevo estilo desde un archivo generado en QGIS.
+
+<html data-lt-installed="true">
+<head>
+</head>
+<body data-gramm="false"><lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 277px !important; transform: none !important; transform-origin: 675px 138.5px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/DMdMXc6/Captura-11.png" style="width: 300px; height: 273px;" /></p>
+</body>
+</html>
+
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 174px !important; transform: none !important; transform-origin: 675px 87px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/ykJdbxR/Captura-12.png" style="width: 300px; height: 170px;" /></p>
+</body>
+</html>
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p><img alt="" src="https://i.ibb.co/L9LjDKd/Captura-13.png" style="width: 300px; height: 157px;" /></p>
+</body>
+</html>
+
+Finalmente se agregan los widgets que complementen mejor la información del mapa, para este caso utilizamos un gráfico que muestra la cantidad de turistas por ciudad de forma resumida y un contador de ciudades.
+
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 143px !important; transform: none !important; transform-origin: 675px 71.5px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p><img alt="" src="https://i.ibb.co/GQ7TTVC/Captura-14.png" style="width: 400px; height: 139px;" /></p>
+</body>
+</html>
+
+Al terminar de personalizar el mapa en el menu desplegable de la parte superior dereche damos Clic en Guardar. Así el mapa queda guardado en el servidor. 
 
 URL: http://34.83.176.208/maps/41
 
