@@ -11,7 +11,21 @@ el sistema económico actual no podrá mantenerse estable si los efectos de la p
 Entre los sectores de la economía más afectados se encuentra el turismo, este sector se encuentra paralizado casi en su totalidad pues
 una de las principales medidas de contención del virus ha sido el cierre de fronteras y aeropuertos afectando directamente el acceso a
 cualquier destino y con pocas alternativas para sostenerse ya que esta es una actividad que implica el desplazamiento físico
-obligatoriamente. 
+obligatoriamente.
+
+El presente trabajo busca representar la importancia del turismo en la economía mundial y demostrar el cambio que este ha tenido en los últimos meses a nivel mundial, así mismo, se busca representar el flujo de turistas que atraia un país como Colombia. 
+
+**Mockup**
+
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 299px !important; transform: none !important; transform-origin: 675px 149.5px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/FwWm3gh/Mockup.jpg" style="width: 400px; height: 295px;" /></p>
+</body>
+</html>
+
 
 **Fuentes de Datos**
 
