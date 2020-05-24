@@ -105,12 +105,31 @@ Para publicar y visualizar los datos de la Capa de Continentes en CARTO, despué
 
 <p style="text-align: center;">&nbsp;</p>
 
-
 <p>&nbsp;</p>
 </body>
 </html>
 
+<html data-lt-installed="true">
+<head>
+	<title></title>
+</head>
+<body data-gramm="false"><lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 317px !important; transform: none !important; transform-origin: 675px 158.5px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/drh97LB/Captura-6.png" style="width: 600px; height: 313px;" /></p>
+</body>
+</html>
+
 Para este caso se agregan 3 widgets al tablero cada uno corresponde al cambio porcentual de la llegada de turistas por continente en Enero, Febrero y Marzo. Es posible observar que para el mes de enero los valores de CPLT (cambio porcentual de llegada de turistas) son positivo, es decir hubo un aumento en el flujo de turistas en todos los continentes, a excepción de las Américas que no tuvo ningún cambio. Para el mes de febrero se puede evidenciar que el aumento se mantiene y los porcentajes son positivos, a excepción del continente asiático en donde el COVID-19 ya presentaba tasas de contagio muy altas y las medidas de contención estaban ya en curso. Finalmente, en el mes de marzo se evidencia que los porcentajes de cambio de llegada de turistas alcanzan valores de -64 en Asia y oscilan entre -40 y -60 para el resto de continentes, demostrando que turismo estaba sufrió un impacto negativo en todo el mundo debido al cierre de fronteras. 
+
+<html>
+<head>
+</head>
+<body>
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/Sr7KfJW/Captura-5.png" style="width: 600px; height: 309px;" /></p>
+</body>
+</html>
+
+
+
 
 URL: https://mafe-mojica4.carto.com/builder/f699b8f5-be73-48a9-8085-781ed170328c/embed
 
@@ -118,11 +137,38 @@ URL: https://mafe-mojica4.carto.com/builder/f699b8f5-be73-48a9-8085-781ed170328c
 
 Para la publicación a través de Geonode, inicialmente se debe crear una cuenta de usuario, una vez la cuenta ha sido creada será posible empezar a cargar las capas desde la pestaña Datos > Capas > Subir Capas. Después de dar clic en esta opción se despliega una interfaz que permite arrastrar los archivos a una ventana o cargarlos con el explorador de archivos. 
 
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 227px !important; transform: none !important; transform-origin: 675px 113.5px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/xfsvHtQ/Captura-7.png" style="width: 600px; height: 223px;" /></p>
+</body>
+</html>
+
 Cuando se han cargado las capas se muestra la opción Visualizar Capa, al hacer clic será posible visualizar la capa y sus metadatos. Para editar los metadatos se da clic en la opción Editing Tools > Metadata > Wizard. Esto nos permitirá modificar o especificar la información de la capa con mayor detalle. 
 
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 179px !important; transform: none !important; transform-origin: 675px 89.5px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/Q8Vg2qq/Captura-8.png" style="width: 600px; height: 175px;" /></p>
+</body>
+</html>
+
+<html data-lt-installed="true">
+<head>
+</head>
+<lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 276px !important; transform: none !important; transform-origin: 675px 138px !important; zoom: 1 !important; margin-top: 16px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="0" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="0"></canvas></lt-div></lt-highlighter>
+<body data-gramm="false">
+<p style="text-align: center;"><img alt="" src="https://i.ibb.co/jVCGBFX/Captura-3.png" style="width: 600px; height: 272px;" /></p>
+</body>
+</html>
 
 
-URL:
+
+URL: http://34.83.176.208/maps/41
 
 **5. Slide**
 
