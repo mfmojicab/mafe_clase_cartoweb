@@ -88,7 +88,27 @@ Este procedimiento fue realizado con el Software ArcGIS, se carga el shapefile e
 
 Para publicar y visualizar los datos de la Capa de Continentes en CARTO, después de iniciar sesión se selecciona la pestaña  Data, desde allí es posible cargar el shapefile modificado en el punto anterior como un archivo ZIP, una vez cargados los archivos la pagina nos muestra la tabla de atributos del shapefile y se selecciona la opción Create Map. Consecutivamente se despliega el editor de mapas de Carto en donde se puede personalizar la simbología y las variables a representar.
 
+<html data-lt-installed="true">
+<head>
+</head>
+<body data-gramm="false"><lt-highlighter contenteditable="false" style="display: none;"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="overflow: visible !important; width: 1350px !important; height: 494px !important; transform: none !important; transform-origin: 675px 247px !important; zoom: 1 !important; margin-top: 8px !important; margin-left: 8px !important;"><canvas class="lt-highlighter__canvas" height="457" style="display: none; margin-top: 0px !important; margin-left: 0px !important;" width="937"></canvas></lt-div></lt-highlighter>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="https://i.ibb.co/8sHmqBm/Captura-2.png" style="width: 600px; height: 208px;" /></p>
+
+<p style="text-align: center;">Carga de Capas en CARTO</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+<p>&nbsp;</p>
+</body>
+</html>
 
 Para este caso se agregan 3 widgets al tablero cada uno corresponde al cambio porcentual de la llegada de turistas por continente en Enero, Febrero y Marzo. Es posible observar que para el mes de enero los valores de CPLT (cambio porcentual de llegada de turistas) son positivo, es decir hubo un aumento en el flujo de turistas en todos los continentes, a excepción de las Américas que no tuvo ningún cambio. Para el mes de febrero se puede evidenciar que el aumento se mantiene y los porcentajes son positivos, a excepción del continente asiático en donde el COVID-19 ya presentaba tasas de contagio muy altas y las medidas de contención estaban ya en curso. Finalmente, en el mes de marzo se evidencia que los porcentajes de cambio de llegada de turistas alcanzan valores de -64 en Asia y oscilan entre -40 y -60 para el resto de continentes, demostrando que turismo estaba sufrió un impacto negativo en todo el mundo debido al cierre de fronteras. 
 
@@ -96,3 +116,12 @@ URL: https://mafe-mojica4.carto.com/builder/f699b8f5-be73-48a9-8085-781ed170328c
 
 **4. GeoNode**
 
+URL
+
+**5. Slide**
+
+URL:
+
+**6. Loom**
+
+URL:
