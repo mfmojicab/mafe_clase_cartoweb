@@ -251,4 +251,5 @@ URL: https://slides.com/mfmojicab/deck
 
 **6. Loom**
 
-URL: https://www.loom.com/share/dfcc923448f640279288f54421106f9b
+URL: https://www.loom.com/share/dfcc923448f640279288f54421106f9b (AUDIO Y CAMARA NO SIRVEN)
+URL: https://www.youtube.com/watch?v=SBnL2C40cBE&feature=youtu.be (YOUTUBE)
