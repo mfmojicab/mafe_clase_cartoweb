@@ -116,7 +116,13 @@ URL: https://mafe-mojica4.carto.com/builder/f699b8f5-be73-48a9-8085-781ed170328c
 
 **4. GeoNode**
 
-URL
+Para la publicación a través de Geonode, inicialmente se debe crear una cuenta de usuario, una vez la cuenta ha sido creada será posible empezar a cargar las capas desde la pestaña Datos > Capas > Subir Capas. Después de dar clic en esta opción se despliega una interfaz que permite arrastrar los archivos a una ventana o cargarlos con el explorador de archivos. 
+
+Cuando se han cargado las capas se muestra la opción Visualizar Capa, al hacer clic será posible visualizar la capa y sus metadatos. Para editar los metadatos se da clic en la opción Editing Tools > Metadata > Wizard. Esto nos permitirá modificar o especificar la información de la capa con mayor detalle. 
+
+
+
+URL:
 
 **5. Slide**
 
