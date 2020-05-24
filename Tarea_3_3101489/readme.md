@@ -46,8 +46,7 @@ obligatoriamente.
 			<td><span lang="ES-MX" style="font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif;">Archivo shapefile de divisi&oacute;n pol&iacute;tico-administrativa de Colombia.</span></td>
 			<td>
 			<p>IGAC, datos abiertos Cartograf&iacute;a y Geograf&iacute;a</p>
-
-			<p>URL:<a href="https://geoportal.igac.gov.co/contenido/datos-abiertos-cartografia-y-geografia">https://geoportal.igac.gov.co/contenido/datos-abiertos-cartografia-y-geografia</a></p>
+                        <p>URL:<a href="https://geoportal.igac.gov.co/contenido/datos-abiertos-cartografia-y-geografia">https://geoportal.igac.gov.co/contenido/datos-abiertos-cartografia-y-geografia</a></p>
 			</td>
 		</tr>
 		<tr>
